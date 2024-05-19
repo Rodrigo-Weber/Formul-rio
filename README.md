@@ -1,4 +1,4 @@
-# FoRMULÁRIO BASE
+# FORMULÁRIO BASE
 
 ## FUNCIONALIDADE
 Um formulário básico para cadastro de usuarios com integração a banco de dados.
